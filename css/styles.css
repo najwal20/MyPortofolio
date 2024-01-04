@@ -3840,7 +3840,7 @@ input[type="button"].btn--primary:focus {
  .s-portfolio {
     background-color: #070707;
     padding-top: calc(6 * var(--space));
-    padding-bottom: var(--vspace-5);
+    
 }
 
 .s-portfolio h3 {
